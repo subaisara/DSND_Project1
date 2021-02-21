@@ -19,6 +19,9 @@ Dataset is available here: https://www.kaggle.com/airbnb/seattle/data.
 - Seatle_AirBNB.ipnb - jupyter notebook.
 - Seatle AirBNB Data.zip - zip file with data exported from Kaggle.
 - seattle_image.jpeg - photo included in the jupyter notebook.
+- Money.jpg - photo included in the jupyter notebook.
+- houseservice.jpg - photo included in the jupyter notebook.
+- bestplace.jpg - photo included in the jupyter notebook.
 
 ## summary of the results of the analysis
 The analysis answered all of th 3 questions.
