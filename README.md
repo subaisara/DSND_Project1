@@ -9,7 +9,7 @@ Write a Data Science Blog Post
 - seaborn https://seaborn.pydata.org/
 
 ## Motive
-The main purpose of this project is to write a blog that will be supported by data science code to address 3 questions.
+The main purpose of this project is to write a blog that is supported by data science code to address 3 questions.
 - Based on scores on the locations, which areas of Seattle is the best?
 - Which neighbourhood is the most affordable (for family/group travels) to pay for long (30 days) vacations? and which to avoid?
 - Looking at previous visitors experience, for who paid cleaning fees, did they actually got a cleaner room than other visitors who did not pay for it?
@@ -21,8 +21,4 @@ Seatle AirBNB Data.zip - zip file with data exported from Kaggle.
 seattle_image.jpeg - photo included in the jupyter notebook.
 
 ## summary of the results of the analysis
-
-
-## acknowledgements
-
-## 
+The analysis answered all of th 3 questions.
