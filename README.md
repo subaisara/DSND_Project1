@@ -14,7 +14,9 @@ The main purpose of this project is to write a blog that is supported by data sc
 - Based on scores on the locations, which areas of Seattle is the best?
 - Which neighbourhood is the most affordable (for family/group travels) to pay for long (30 days) vacations? and which to avoid?
 - Looking at previous visitors experience, for who paid cleaning fees, did they actually got a cleaner room than other visitors who did not pay for it?
-Dataset is available here: https://www.kaggle.com/airbnb/seattle/data. 
+
+## Dataset 
+Dataset is available here: https://www.kaggle.com/airbnb/seattle/data
 
 ## Files
 Files uploaded in the repository:
