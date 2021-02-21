@@ -28,4 +28,4 @@ Files uploaded in the repository:
 - bestplace.jpg - photo included in the jupyter notebook.
 
 ## summary of the results of the analysis
-The analysis answered all of th 3 questions.
+The analysis answered all of th 3 questions. You can check this blog for more details on my analysis: https://subaiesara.medium.com/airbnb-seatle-smart-trip-tips-dbf8c31821c6
